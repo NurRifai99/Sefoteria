@@ -285,6 +285,7 @@ animations = [{
 radius = 5.22976
 
 [node name="playa" type="CharacterBody2D"]
+y_sort_enabled = true
 collision_layer = 3
 script = ExtResource("1_i1wvp")
 
