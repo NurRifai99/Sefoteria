@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://bqtmxnmr7nhbk"]
+
+[ext_resource type="PackedScene" uid="uid://dee4uwx4bu7wj" path="res://scenes/character_body_2d.tscn" id="1_aof2g"]
+
+[node name="playa" instance=ExtResource("1_aof2g")]
